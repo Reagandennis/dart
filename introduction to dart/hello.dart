@@ -6,7 +6,7 @@ void main(List<String> args) {
   print("Hello world");
 // thid prints  to This is my first application the console
   print("This is my first application");
-
+// this is a comment
   print(23 - 10);
 // this is a boolean value in dart.
   print(false);
