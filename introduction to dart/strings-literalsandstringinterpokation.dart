@@ -12,6 +12,7 @@ void main(List<String> args) {
   // string interpolation
 
   String name = "Reagan";
+  // use the dollar sign interpolation instead of + 
   String message = "my name is $name";
   print(message);
 }
